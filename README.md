@@ -1,4 +1,4 @@
-# -deepseek-md-doc-markdown-to-doc-with-LaTeX
+# deepseek 网页 文本 markdown转doc with LaTeX
 **常见的md转doc文件随便转，但是一旦md文件里面包含了LaTeX公式，尤其是deepseek生成的文本，使用在线md转doc，Typora等工具都无法识别数学公式。**
 
 **deepseek网页转doc,deepseek输出内容 LaTeX转doc,deepseek转doc**
